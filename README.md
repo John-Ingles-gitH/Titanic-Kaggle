@@ -14,7 +14,7 @@ $ cd Titanic-Kaggle
 $ python notebook_code
 ```
 
-##Usage
+## Usage
 
 This code requires Python 3.x and the following libraries:
 
