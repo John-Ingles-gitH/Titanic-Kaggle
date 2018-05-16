@@ -28,3 +28,7 @@ This code requires Python 3.x and the following libraries:
 * seaborn
 
 You can open the file **Project2_Notebook.ipynb** in Jupyter Notebooks or you can view it by navigating to its [GitHub Page](https://john-ingles-gith.github.io/Titanic-Kaggle/).
+
+##License
+
+GNU General Public License v3.0
